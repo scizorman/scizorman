@@ -22,3 +22,13 @@
 ```
 
     
+
+---
+
+![](./2-most-commit-language.svg)
+
+```
+![](https://raw.githubusercontent.com/scizorman/scizorman/main/profile-summary-card-output/blueberry/2-most-commit-language.svg)
+```
+
+    
